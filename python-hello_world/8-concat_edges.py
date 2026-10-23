@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-str = "Python is an interpreted object-oriented programming language with dynamic semantics"
-# Do not create new variables or use string literals
-# Complete the source code to print object-oriented programming with Python
-print(str[25:52] + str[61:67] + str[:6])
+str = "Python is an interpreted, interactive, object-oriented programming\
+language that combines remarkable power with very clear syntax"
+# Slice str only: no new variables, no string literals
+print(str[39:66] + str[105:111] + str[:6])
